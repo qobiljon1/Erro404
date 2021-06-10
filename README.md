@@ -1,2 +1,2 @@
-# Erro404
+# Error404
 Error 404 not found page
